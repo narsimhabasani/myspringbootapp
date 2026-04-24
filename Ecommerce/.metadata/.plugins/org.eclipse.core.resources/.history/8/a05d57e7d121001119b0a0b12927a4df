@@ -1,0 +1,5 @@
+package com.ecomexpress.entity;
+
+public class User {
+
+}
